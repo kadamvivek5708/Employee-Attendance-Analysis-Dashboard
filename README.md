@@ -8,7 +8,7 @@ The goal is to provide a clear, at-a-glance view of workforce attendance, highli
 
 ## Dashboard Preview
 
-![Employee Attendance Dashboard](Employee_presence_analysis.png)
+![Employee Attendance Dashboard](Employee presence analysis.png)
 
 ---
 
